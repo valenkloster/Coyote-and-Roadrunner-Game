@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/winner.mp3</SourceFile>
+  <SourceTime>2021-06-21T17:40:24-03:00</SourceTime>
+  <DestFile>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/bin/Windows/Content/winner.xnb</DestFile>
+  <DestTime>2021-06-23T18:34:28.2025183-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

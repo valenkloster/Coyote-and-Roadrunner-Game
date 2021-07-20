@@ -1,0 +1,474 @@
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Piedra.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\obj\x86\Debug\JuegoCorredor.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Piedra.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor (1)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Piedra.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor (2)-20210608T205618Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Piedra.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\valen\Desktop\JuegoCorredor (2)-20210616T200511Z-001\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3.xnb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Leonardo\Documents\PRIMER CUATRIMESTRE 2021\PROGRAMACIÓN II\VIDEOJUEGOS\VIDEOJUEGO TRABAJO GRUPAL\JuegoCorredor\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.AssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press (1).wma
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos.xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JUEGO\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Bala (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press (1).wma
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Cactus (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Carrito (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos1.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos2.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Correcaminos3.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\CorredorInactivo (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_agacharse (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corredor_colision (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Corriendo2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Desierto (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Dino2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Moneda (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Salta3 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\Content\Titulo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor (2)\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Bala (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Cactus (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Carrito (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos1.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos2.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos3.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\CorredorInactivo (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_agacharse (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_colision (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Desierto (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Moneda (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta1 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta2 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta3 (1).xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Titulo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.wma
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.wma
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\game over.xnb
+C:\Users\Martina Kozelnik\Desktop\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\winner.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\button-press.wma
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.wma
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Bala (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Cactus (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Carrito (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos1.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos2.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos3.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\CorredorInactivo (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_agacharse (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_colision (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo1 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo2 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Desierto (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino1 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino2 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Fondo.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\game over.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Moneda (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta1 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta2 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta3 (1).xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.wma
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Titulo.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\winner.xnb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.exe
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.pdb
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.exe
+D:\Valentina\Descargas\JuegoCorredor casi FINAL-20210622T010840Z-001\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.pdb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\button-press.wma
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.wma
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Bala (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Cactus (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Carrito (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos1.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos2.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Correcaminos3.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\CorredorInactivo (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_agacharse (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corredor_colision (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo1 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Corriendo2 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Desierto (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino1 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Dino2 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\game over.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Moneda (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta1 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta2 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Salta3 (1).xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.wma
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Fondo.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Sonido-Moneda.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\Titulo.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\Content\winner.xnb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.exe
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\JuegoCorredor.pdb
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.csproj.CopyComplete
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.exe
+C:\Users\valen\Desktop\UCEMA\Programación II\repos\JuegoCorredor\JuegoCorredor casi FINAL\obj\x86\Debug\JuegoCorredor.pdb

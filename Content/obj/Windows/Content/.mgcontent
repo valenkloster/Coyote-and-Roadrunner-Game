@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Bala (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Cactus (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Carrito (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Correcaminos1.png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Correcaminos2.png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Correcaminos3.png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Corredor_agacharse (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Corredor_colision (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/CorredorInactivo (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Corriendo1 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Corriendo2 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Desierto (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Dino1 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Dino2 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Fondo.png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/game over.mp3</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Moneda (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Salta1 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Salta2 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Salta3 (1).png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Sonido-Fondo.mp3</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Sonido-Moneda.mp3</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/Titulo.png</File>
+    <File>C:/Users/valen/Desktop/UCEMA/Programación II/repos/JuegoCorredor/JuegoCorredor casi FINAL/Content/winner.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

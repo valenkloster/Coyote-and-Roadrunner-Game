@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Leonardo/Documents/PRIMER CUATRIMESTRE 2021/PROGRAMACIÓN II/VIDEOJUEGOS/VIDEOJUEGO TRABAJO GRUPAL/JuegoCorredor/JuegoCorredor/JuegoCorredor (2)/Content/Font.spritefont</SourceFile>
+  <SourceTime>2021-06-02T00:49:14-03:00</SourceTime>
+  <DestFile>C:/Users/Leonardo/Documents/PRIMER CUATRIMESTRE 2021/PROGRAMACIÓN II/VIDEOJUEGOS/VIDEOJUEGO TRABAJO GRUPAL/JuegoCorredor/JuegoCorredor/JuegoCorredor (2)/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2021-06-18T16:49:39.6676056-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
